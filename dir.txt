@@ -1,1 +1,1 @@
-/Users/daniel.habib/Repos/ecommit/
+{Absolute Path to emoji repo}
