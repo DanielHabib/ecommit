@@ -57,3 +57,7 @@
 :wheelchair:
 :zap:
 :zzz:
+:new_moon_with_face:
+:sun_with_face:
+:no_smoking:
+:shipit:

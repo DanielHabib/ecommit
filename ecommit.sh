@@ -1,9 +1,20 @@
+function getEmoji {
+    emoji=$(curl -s "Accept: application/json" https://api.github.com/emojis | jq -r 'keys' | gshuf --head-count=1 | sed 's/,$//')
+}
+
 function ecommit {
     git add .
-    emoji=$(gshuf -n 1 "$PWD/emoji.txt")
-    git commit -m "$* $emoji"
+    getEmoji
+    emojiCommit=`python -c "print '{0}'.format('$emoji')"`
+   
+    git commit -m "{$*} :${emojiCommit}:"
 }
+
 main () {
     ecommit "$*"
 }
+
+
 # main "$@"
+
+
