@@ -19,3 +19,7 @@ I wrote it on OSX, so currently you need gshuf, python3.5 and jq
 
 ## Reasons to use this
 Artistic Expression
+
+
+### Wanna Contribute?
+shialabeouf.jpg
