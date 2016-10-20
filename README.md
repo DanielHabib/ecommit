@@ -8,7 +8,7 @@ Put an alias in your bash profile
 ## Next
  * Going to create a menu that raises a prompt, the prompt will give you options to categorize your commit and it will append a specific emoji to it. This will help categorize commits at a glance.
 
-Ex. If you are commiting a bug you will get the emoji :bug: appended to your message
+  * Ex. If you are commiting a bug you will get the emoji :bug: appended to your message
  * Hook up `emojis.txt` for offline commiting  
 
 
