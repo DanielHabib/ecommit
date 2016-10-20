@@ -5,7 +5,7 @@ function getEmoji {
 function ecommit {
     git add .
     getEmoji
-    emojiCommit=`python3.5 -c "print ':{0}:'.format('$emoji')"`
+    emojiCommit=`python3.5 -c "print ':{0}:'.format($emoji)"`
     python -c "import os; os.system('git commit -m {$emojiCommit}')"
 }
 
