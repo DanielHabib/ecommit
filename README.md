@@ -1,6 +1,6 @@
-# ecommit
-Ecommit Generates a random emoji and appends it to your commit message.
-Bring your repo to life
+# :zap: ecommit :zap:
+Ecommit Generates a random emoji and appends it to your commit message. :fire:
+Bring your repo to life :new_moon_with_face:
 
 ## Setup
 Put an alias in your bash profile
