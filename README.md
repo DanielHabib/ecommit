@@ -2,7 +2,7 @@
 Ecommit Generates a random emoji and appends it to your commit message.
 Bring your repo to life
 
-![ecommit example](Example.png)
+![ecommit example](ExampleCommits.png)
 
 ## Setup
 Put an alias in your bash profile
