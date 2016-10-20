@@ -11,6 +11,7 @@ function ecommit {
 }
 
 main () {
+    initiateMenu
     ecommit "$*"
 }
 
