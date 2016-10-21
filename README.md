@@ -3,9 +3,7 @@ Ecommit appends an emoji to the end of your commit message to help classify it.
 
 # Insert Gif
 
-
 Bring your repo to life
-
 
 ## Rubric
 Commit Type | Emoji
@@ -24,7 +22,6 @@ Tooling | :wrench: `:wrench:`
 Tests | :rotating_light: `:rotating_light:`
 Deprecation | :poop: `:poop:`
 Work In Progress (WIP) | :construction: `:construction:`
-
 
 ## Setup
 Put an alias in your bash profile
