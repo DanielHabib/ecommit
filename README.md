@@ -4,7 +4,7 @@ Ecommit appends an emoji to the end of your commit message to help classify it.
 
 Bring your repo to life
 
-![ecommit example](http://giphy.com/gifs/3o6Zt6cVCAdKITMNZ6)
+![ecommit example](https://media.giphy.com/media/3o6Zt6cVCAdKITMNZ6/source.gif)
 
 
 ## Rubric
