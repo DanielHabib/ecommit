@@ -74,7 +74,7 @@ function ecommit {
     git add .
     # getRandomEmoji
     menu
-    emojiCommit=`python3.5 -c "print('$* ' +'{0}'.format( '$emoji'))"`
+    emojiCommit=`python -c "print '$* ' +'{0}'.format( '$emoji')"`
     echo "Generated Emoji: "$emoji
     git commit -m $emojiCommit
 }
