@@ -66,13 +66,13 @@ do
 done
 }
 
-function getEmoji {
+function getRandomEmoji {
     emoji=$(curl -s "Accept: application/json" https://api.github.com/emojis | jq -r 'keys' | gshuf --head-count=1 | sed 's/,$//')
 }
 
 function ecommit {
     git add .
-    # getEmoji
+    # getRandomEmoji
     menu
     emojiCommit=`python3.5 -c "print('$* ' +'{0}'.format( '$emoji'))"`
     echo "Generated Emoji: "$emoji
