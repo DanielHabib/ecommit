@@ -1,5 +1,10 @@
 # ecommit
+
 Ecommit appends an emoji to the end of your commit message to help classify it.
+
+Bring your repo to life
+
+![ecommit example](ExampleCommits.png)
 
 Bring your repo to life
 
@@ -30,3 +35,9 @@ Put an alias in your bash profile
 ## Reasons to use this
 Artistic Expression
 
+<<<<<<< HEAD
+=======
+
+### Wanna Contribute?
+shialabeouf.jpg
+>>>>>>> e92d5a9321cb2ab5d5039e39c041f3a9f286b6e9
