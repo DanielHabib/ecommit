@@ -6,6 +6,7 @@ Ecommit appends an emoji to the end of your commit message to help classify it.
 Bring your repo to life
 
 ## Rubric
+
 Commit Type | Emoji
 ----------  | -------------
 Initial Commit | :tada: `:tada:`
