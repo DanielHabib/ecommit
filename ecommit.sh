@@ -1,3 +1,18 @@
+function menu {
+PS3="Please choose an option "
+select option in go stay wait quit
+do
+    case $option in
+        go) 
+            echo "Going";;
+        stay|wait) 
+            echo "Standing by";;
+        quit)
+            break;;
+ 	esac    
+done
+}
+
 function getEmoji {
     emoji=$(curl -s "Accept: application/json" https://api.github.com/emojis | jq -r 'keys' | gshuf --head-count=1 | sed 's/,$//')
 }
