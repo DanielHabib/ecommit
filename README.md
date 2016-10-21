@@ -1,7 +1,7 @@
 # ecommit
 Ecommit appends an emoji to the end of your commit message to help classify it.
 
-# Insert Gif
+# Insert Gif HERE
 
 Bring your repo to life
 
