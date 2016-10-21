@@ -26,10 +26,8 @@ Deprecation | :poop: `:poop:`
 Work In Progress (WIP) | :construction: `:construction:`
 
 
-
 ## Setup
 Put an alias in your bash profile
-
 
 ## Dependencies
 python3.5
