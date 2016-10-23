@@ -1,6 +1,7 @@
 # ecommit
 
-Ecommit appends an emoji to the end of your commit message to help classify it.
+Ecommit appends an emoji to the end of your commit message to help classify them.
+You can now search your commits based on their classifications.
 
 Bring your repo to life
 
@@ -26,12 +27,4 @@ Tests | :rotating_light: `:rotating_light:`
 Deprecation | :poop: `:poop:`
 Work In Progress (WIP) | :construction: `:construction:`
 
-## Setup
-Put an alias in your bash profile
-
-## Reasons to use this
-Artistic Expression
-
-### Wanna Contribute?
-shialabeouf.jpg
 
