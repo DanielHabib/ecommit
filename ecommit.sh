@@ -11,7 +11,7 @@ do
             emoji=":bookmark:"
             break;;
         Feature)
-            emoji=":sparkels:"
+            emoji=":sparkles:"
             break;;
         Bugfix)
             emoji=":bug:"
